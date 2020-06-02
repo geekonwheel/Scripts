@@ -1,0 +1,1 @@
+create a planned task in W10, make it run on login with admin privileges, run powershell with this command "W32tm /resync /force"
